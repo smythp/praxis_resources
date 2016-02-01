@@ -1,7 +1,12 @@
 ## Praxis Seminar Resources
 
-MALS 75500 | IDS 81640
-Spring 2016 | CUNY Graduate Center, Room 3307 | Tuesday, 4:15 - 6:15
+### Course Info
+
+MALS 75500
+IDS 81640
+Spring 2016
+CUNY Graduate Center, Room 3307
+Tuesday, 4:15 - 6:15
 
 ### Course Links
 
@@ -11,7 +16,7 @@ Spring 2016 | CUNY Graduate Center, Room 3307 | Tuesday, 4:15 - 6:15
 
 ### Digital Fellows resources
 
-[PUG Tuesday 1:00 - 3:00](https://digitalfellows.commons.gc.cuny.edu/2015/10/15/python-users-group/)  
+[Python User Group \(PUG\)](https://digitalfellows.commons.gc.cuny.edu/2015/10/15/python-users-group/) Tuesday 1:00 - 3:00  
 [Office hours](https://digitalfellows.commons.gc.cuny.edu/digital-fellows-office-hours/) Mondays from 2:00 to 3:00  
 [Digital Fellows site](https://digitalfellows.commons.gc.cuny.edu/)  
 Workshop schedule TBA  
@@ -23,7 +28,7 @@ gw2290@columbia.edu
 [@gwijthoff](https://twitter.com/gwijthoff)  
 
 #### Course Hashtag
-#dhpraxis15  
+[#dhpraxis15](https://twitter.com/search?q=dhpraxis15&src=typd)  
 
 ### Other links
 
