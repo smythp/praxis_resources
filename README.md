@@ -16,8 +16,8 @@ Tuesday, 4:15 - 6:15
 
 ### Digital Fellows resources
 
-[Python User Group \(PUG\)](https://digitalfellows.commons.gc.cuny.edu/2015/10/15/python-users-group/) Tuesday 1:00 - 3:00  
-[Office hours](https://digitalfellows.commons.gc.cuny.edu/digital-fellows-office-hours/) Mondays from 2:00 to 3:00  
+[Python User Group \(PUG\)](https://digitalfellows.commons.gc.cuny.edu/2015/10/15/python-users-group/) on Tuesday 1:00 - 3:00  
+[Office hours](https://digitalfellows.commons.gc.cuny.edu/digital-fellows-office-hours/) on Mondays from 2:00 to 3:00  
 [Digital Fellows site](https://digitalfellows.commons.gc.cuny.edu/)  
 Workshop schedule TBA  
 
