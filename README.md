@@ -21,7 +21,9 @@ Tuesday, 4:15 - 6:15
 [Digital Fellows site](https://digitalfellows.commons.gc.cuny.edu/)  
 [NYCDH Week Workshops: Intro Python and Social Media Scraping with the Twitter API](https://public.3.basecamp.com/p/pSh2YVNAbEwn2p64T1sVP9JN)  
 [ITP Skills Workshops](http://www.eventbrite.com/e/gc-itp-skills-labs-tickets-21271159611)  
+[CUNY DHI](http://cunydhi.commons.gc.cuny.edu/) List of Graduate Center events and cross-CUNY resources
 Digital Fellows Workshop schedule TBA  
+
 
 ### Communication
 
