@@ -19,7 +19,7 @@ Tuesday, 4:15 - 6:15
 [Python User Group \(PUG\)](https://digitalfellows.commons.gc.cuny.edu/2015/10/15/python-users-group/) on Tuesday 1:00 - 3:00  
 [Office hours](https://digitalfellows.commons.gc.cuny.edu/digital-fellows-office-hours/) on Mondays from 2:00 to 3:00  
 [Digital Fellows site](https://digitalfellows.commons.gc.cuny.edu/)  
-[NYCDH Week Workshops: Intro Python and Social Media Scraping with the Twitter API](https://public.3.basecamp.com/p/pSh2YVNAbEwn2p64T1sVP9JN)
+[NYCDH Week Workshops: Intro Python and Social Media Scraping with the Twitter API](https://public.3.basecamp.com/p/pSh2YVNAbEwn2p64T1sVP9JN)  
 [ITP Skills Workshops](http://www.eventbrite.com/e/gc-itp-skills-labs-tickets-21271159611)  
 Digital Fellows Workshop schedule TBA  
 
